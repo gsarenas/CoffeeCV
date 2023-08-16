@@ -4,7 +4,7 @@
 Recicladora de Garrafa PET para Impressão 3D  
   
 > **Apresentado à Faculdade Engenheiro Salvador Arena (FESA)**  
-> **Apresentaçãoo de artigo no SIMAC**
+> **Apresentação de artigo no SIMAC**
 >
 > **Desenvolvido por:**
 >
