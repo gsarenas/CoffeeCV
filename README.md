@@ -12,7 +12,7 @@ Aplicação da visão computacional e inteligência artificial na classificaçã
 > Osmar Nunes Cruz Junior <061200036@faculdade.cefsa.edu.br>  
 > Lucas Demetrius Augusto <pro21002090@cefsa.edu.br> (orientador)
 
-[](3.IMG/Resultado-Preprocessamento.png)
+![](3.IMG/Resultado-Preprocessamento.png)
 
 ## Motivação
 
