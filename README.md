@@ -12,6 +12,8 @@ Aplicação da visão computacional e inteligência artificial na classificaçã
 > Osmar Nunes Cruz Junior <061200036@faculdade.cefsa.edu.br>  
 > Lucas Demetrius Augusto <pro21002090@cefsa.edu.br> (orientador)
 
+[](3.IMG/Resultado-Preprocessamento.png)
+
 ## Motivação
 
 Na perspectiva tecnológica, o café assume um papel crucial como um objeto de estudo para aplicação de soluções inovadoras. Com a safra de 2023 em foco, as demandas por produção e exportação eficientes de café ressaltam a importância de abordagens automatizadas. Diante de desafios como a bienalidade negativa e as oscilações climáticas, é evidente que a produção global de café está em ascensão. Nesse cenário, aprimorar a oferta de café através de técnicas avançadas de automação é fundamental para garantir a viabilidade econômica do setor e atenuar as consequências imediatas das flutuações de preços.
