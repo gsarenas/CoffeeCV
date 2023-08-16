@@ -1,6 +1,6 @@
 # CoffeeCV
 
-Recicladora de Garrafa PET para Impressão 3D  
+Aplicação da visão computacional e inteligência artificial na classificação da maturação de grãos de café
   
 > **Apresentado à Faculdade Engenheiro Salvador Arena (FESA)**  
 > **Apresentação de artigo no SIMAC**
